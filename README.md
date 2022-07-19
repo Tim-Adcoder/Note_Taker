@@ -1,5 +1,9 @@
 # Note Taker
 
+## Deployed Link
+
+https://tim-adcoder.github.io/Note_Taker/
+
 ## Description
 
 Note Taker is an application that is used to write and save notes. The application uses an Express.js back end and saves and retrieves note data from a JSON file. I was put in charge of creating the back end, connecting it to the front end and then deploying the application to Heroku.
